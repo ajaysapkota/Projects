@@ -1,0 +1,3 @@
+[submodule "numpi"]
+	path = numpi
+	url = git@github.com:omps/numpi.git
